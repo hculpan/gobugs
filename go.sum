@@ -1,0 +1,5 @@
+github.com/hculpan/go-sdl-lib v0.0.0-20210509221513-9e35c20dddb4 h1:0KIxM9sGAoTnMb40kJKEt1VwrxZeNlVXycGy0eXPZJk=
+github.com/hculpan/go-sdl-lib v0.0.0-20210509221513-9e35c20dddb4/go.mod h1:Epgwps5K8kdUn1G0YzECkYUXb5nZPUB5UP+aEmoJB3s=
+github.com/veandco/go-sdl2 v0.4.5/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
+github.com/veandco/go-sdl2 v0.4.7 h1:VfpCM+LfEGDbHdByglCo2bcBsevjFvzl8W0f6VLNitg=
+github.com/veandco/go-sdl2 v0.4.7/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
